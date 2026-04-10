@@ -104,7 +104,7 @@
     "animejs": "^4.2.2",
     "culori": "^4.0.2",
     "date-fns": "^4.1.0",
-    "dompurify": "^3.3.1",
+    "dompurify": "^3.3.2",
     "es-toolkit": "catalog:",
     "gpuu": "^1.0.6",
     "html2canvas": "^1.4.1",
@@ -173,7 +173,7 @@
     "unocss": "^66.5.11",
     "unplugin-info": "catalog:",
     "unplugin-yaml": "^3.0.7",
-    "vite": "^6.4.1",
+    "vite": "^6.4.2",
     "vue": "3.5.25",
     "vue-tsc": "^3.1.8"
   }

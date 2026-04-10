@@ -45,7 +45,7 @@
     "@xsai/tool": "catalog:",
     "@xsai/utils-chat": "catalog:",
     "best-effort-json-parser": "^1.2.1",
-    "drizzle-orm": "^0.45.1",
+    "drizzle-orm": "^0.45.2",
     "es-toolkit": "^1.43.0",
     "fluent-ffmpeg": "^2.1.3",
     "grammy": "^1.38.4",
